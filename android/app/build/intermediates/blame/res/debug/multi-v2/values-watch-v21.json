@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Gean\\Documents\\GitHub\\App-educacao-a-distancia\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v21\\values-watch-v21.xml",
+            "outputFile": "C:\\Users\\Wal\\Documents\\GitHub\\E-learning-App\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v21\\values-watch-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Gean\\.gradle\\caches\\transforms-2\\files-2.1\\8caedc51b8bcc572d3a29794c11e89f3\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "source": "C:\\Users\\Wal\\.gradle\\caches\\transforms-2\\files-2.1\\2cc64e4df2690c87438033fceefb19e1\\res\\values-watch-v21\\values-watch-v21.xml",
                     "from": {
                         "startLines": "2,6,10",
                         "startColumns": "4,4,4",

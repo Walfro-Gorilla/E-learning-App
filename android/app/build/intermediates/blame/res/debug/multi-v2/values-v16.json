@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Gean\\Documents\\GitHub\\App-educacao-a-distancia\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "C:\\Users\\Wal\\Documents\\GitHub\\E-learning-App\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Gean\\.gradle\\caches\\transforms-2\\files-2.1\\5fb21488d942aa7b469cc881c9a35ce7\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Gean\\.gradle\\caches\\transforms-2\\files-2.1\\8caedc51b8bcc572d3a29794c11e89f3\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Wal\\.gradle\\caches\\transforms-2\\files-2.1\\2cc64e4df2690c87438033fceefb19e1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,6 +20,16 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Wal\\.gradle\\caches\\transforms-2\\files-2.1\\807af8f97bfc98981f74e523dbdbca37\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
                     }
                 }
             ]
